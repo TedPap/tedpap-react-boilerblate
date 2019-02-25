@@ -1,0 +1,16 @@
+html, body {
+  color: #363145;
+  background-color: #f8f6fc;
+  font-size: 10px;
+  text-size-adjust: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input, select, textarea, button{font-family:inherit;}
